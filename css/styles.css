@@ -28,3 +28,13 @@
                 color: blue }
             a:visited { 
               color: purple }
+
+    .transition-demo img{
+      filter: grayscale(100%);
+      transition: 4s;
+    }          
+
+    .transition-demo img:hover{
+      filter: none;
+      transform: scale(1.25) 
+    }
