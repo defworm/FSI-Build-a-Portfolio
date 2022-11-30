@@ -1,5 +1,1 @@
-# Decorate Your Portfolio
-
-This is an activity for FSD Lesson 1.8.2.
-
-Please refer to the Activity Guide in Canvas for directions.
+Welcome to my portfolio project playground where I implement the tools that I am learning on my voyage through the Software Development Professional Certificate Program through UW-Madison/ThriveDX.
